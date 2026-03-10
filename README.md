@@ -133,14 +133,6 @@ Online book discovery platform with modern UI, browsing, and curated reading rec
 
 ---
 
-### 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/najmulcodes/najmulcodes/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-
 <div align="center">
 
 *Open to **Full Stack Developer** roles — available for full-time positions and freelance projects.*
