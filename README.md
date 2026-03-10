@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=140&section=header&text=Najmul%20Hasan&fontSize=52&fontColor=58a6ff&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=75&descSize=18&descColor=8b949e"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=MERN+Stack+%7C+Next.js+%7C+TypeScript+Developer;Building+Scalable+Full+Stack+Applications;React+%2B+Node.js+%2B+MongoDB+%2B+Tailwind+CSS;Open+to+Full+Stack+Developer+Roles+%F0%9F%9A%80" />
+# Najmul Hasan
+### Full Stack Developer
+
+`MERN Stack` &nbsp;|&nbsp; `Next.js` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `React` &nbsp;|&nbsp; `Node.js`
+
 </div>
 
 <br/>
