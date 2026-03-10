@@ -136,8 +136,7 @@ Online book discovery platform with modern UI, browsing, and curated reading rec
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://github.com/najmulcodes/najmulcodes/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-  <img src="https://github.com/najmulcodes/najmulcodes/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+  <img src="https://raw.githubusercontent.com/najmulcodes/najmulcodes/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
