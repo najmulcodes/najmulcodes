@@ -111,10 +111,10 @@ An online book browsing platform with a modern UI where users can explore books 
 
 ## 📌 Currently
 
-✔ Finishing my **internship** and preparing for full-time roles  
-✔ Building production-grade projects with **Next.js & TypeScript**  
-✔ Deepening knowledge in **System Design & DevOps**  
-✔ Open to **full-time**, **freelance**, and **remote** opportunities  
+✔ Finishing my **internship** and preparing for full-time roles
+✔ Building production-grade projects with **Next.js & TypeScript**
+✔ Deepening knowledge in **System Design & DevOps**
+✔ Open to **full-time**, **freelance**, and **remote** opportunities
 
 ---
 
