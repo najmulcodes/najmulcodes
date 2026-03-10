@@ -20,8 +20,6 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=najmulcodes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=8&include_all_commits=true&count_private=true"/>
-
 ### 👨‍💻 About Me
 
 ```typescript
@@ -42,8 +40,6 @@ const najmul = {
 - 📦 RESTful APIs with **Node.js + Express + MongoDB**
 - 💬 Ask me about **React, Next.js, or Node.js**
 - 📫 **[najmulhasanshahin@gmail.com](mailto:najmulhasanshahin@gmail.com)**
-
-<br clear="right"/>
 
 ---
 
@@ -85,9 +81,10 @@ const najmul = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmulcodes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=8&langs_count=8"/>
-&nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=najmulcodes&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=najmulcodes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=8&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmulcodes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=8&langs_count=8"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=najmulcodes&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
 
 </div>
 
