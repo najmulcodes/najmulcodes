@@ -5,11 +5,7 @@
 
 `MERN Stack` &nbsp;|&nbsp; `Next.js` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `React` &nbsp;|&nbsp; `Node.js`
 
-</div>
-
 <br/>
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-najmul--portfolio.vercel.app-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://najmul-portfolio-six.vercel.app/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-najmulcodes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najmulcodes/)&nbsp;
@@ -24,13 +20,12 @@
 
 ```typescript
 const najmul = {
-  name:     "Najmul Hasan",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  role:     "Full Stack Developer",
-  stack:    ["React", "Next.js", "Node.js",
-             "MongoDB", "TypeScript"],
+  name:      "Najmul Hasan",
+  location:  "Dhaka, Bangladesh 🇧🇩",
+  role:      "Full Stack Developer",
+  stack:     ["React", "Next.js", "Node.js", "MongoDB", "TypeScript"],
   learning:  "System Design & DevOps",
-  available: true,
+  available:  true,
 };
 ```
 
@@ -81,15 +76,10 @@ const najmul = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=najmulcodes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=8&include_all_commits=true&count_private=true"/>
+[![streak](https://streak-stats.demolab.com?user=najmulcodes&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262d&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmulcodes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=8&langs_count=8"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=najmulcodes&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=najmulcodes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=8&langs_count=6)](https://github.com/najmulcodes)
 
-</div>
-
-<div align="center">
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=najmulcodes&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=6"/>
 </div>
 
 ---
@@ -156,10 +146,14 @@ Online book discovery platform with modern UI, browsing, and curated reading rec
 
 *Open to **Full Stack Developer** roles — available for full-time positions and freelance projects.*
 
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://najmul-portfolio-six.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najmulcodes/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najmulhasanshahin@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=80&section=footer"/>
+<br/>
+
+⭐ **Najmul Hasan** · crafting the web, one commit at a time
 
 </div>
