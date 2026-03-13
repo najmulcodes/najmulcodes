@@ -1,161 +1,123 @@
-<!-- HERO HEADER -->
+### Hello World, I'm Najmul Hasan 👋
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=Najmul%20Hasan&fontSize=45&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
-</p>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Najmul+Hasan;Junior+Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Things"/>
-</p>
+<br/>
 
----
+<div align="center">
 
-# 👋 Hello, I'm Najmul Hasan
+![Profile Views](https://komarev.com/ghpvc/?username=najmulcodes&label=Profile+views&color=58a6ff&style=flat)&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/najmulcodes?label=Follow&style=social)](https://github.com/najmulcodes)
 
-💻 **Junior Full-Stack Developer**
-📍 Dhaka, Bangladesh
-
-I am passionate about **modern web development** and currently learning how to build **scalable full-stack applications using the MERN stack**.
-
-I enjoy building projects, solving problems, and improving my development skills every day.
+</div>
 
 ---
 
-# 🌐 Portfolio
+### 🙋 About Me
 
-🔗 https://najmul-portfolio-six.vercel.app
-
----
-
-# 🧑‍💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github,vscode&perline=5" />
-
-</p>
+- 🚀 I'm a **Full Stack Developer** from **Dhaka, Bangladesh 🇧🇩**
+- 💻 I specialize in the **MERN Stack** — React, Next.js, Node.js, MongoDB
+- ⚡ Comfortable with **TypeScript**, REST APIs, and modern frontend tooling
+- 🔥 Built **6 production-ready projects** including **ClubSphere**, **MicroTask Platform**, **Care.xyz**, **Welfare Org**, and more — all live
+- 🎯 Currently finishing my internship and **actively looking for full-time roles**
+- 🌱 Currently deepening my knowledge in **System Design & DevOps**
+- 💬 Ask me about **React, Next.js, Node.js, or MongoDB**
+- 📫 Reach me at **[najmulhasanshahin@gmail.com](mailto:najmulhasanshahin@gmail.com)**
+- ⚡ Fun fact: I believe clean code is as important as working code
 
 ---
 
-# 🚀 Previous Projects
+### 🛠 Tech Stack
 
-### 🧑‍🤝‍🧑 ClubSphere
+**Frontend**
 
-**Membership & Event Management Platform**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-• MERN Stack application
-• Club creation & event management
-• Membership system with admin control
+**Backend & Database**
 
-🔗 Live Demo
-🔗 GitHub Repository
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
+**Tools & Platforms**
 
-### 📚 BookHeaven
-
-**Online Book Store Platform**
-
-• Discover and browse books
-• Responsive modern UI
-• Clean frontend design
-
-🔗 Live Demo
-🔗 GitHub Repository
-
----
-
-### 🌱 GreenNest
-
-**Plant & Garden Management Platform**
-
-• Plant collection management system
-• Responsive layout
-• Simple and clean UI
-
-🔗 Live Demo
-🔗 GitHub Repository
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<p align="center">
+**💼 [Personal Portfolio](https://najmul-portfolio-six.vercel.app/)**
+My developer portfolio built to make a strong first impression on recruiters.
+`Next.js` `React` `Tailwind CSS` `Vercel`
+→ [Live Site](https://najmul-portfolio-six.vercel.app/) &nbsp;|&nbsp; [Source Code](https://github.com/najmulcodes/najmul-portfolio)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=najmulcodes&show_icons=true&theme=tokyonight&hide_border=true"/>
+**🌐 [ClubSphere](https://clubsphere-client1.netlify.app/) — Membership & Event Platform**
+Full stack platform for managing club memberships, events, and member dashboards.
+`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+→ [Live Site](https://clubsphere-client1.netlify.app/) &nbsp;|&nbsp; [Source Code](https://github.com/Shariarx6T9/clubsphere-client)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmulcodes&layout=compact&theme=tokyonight&hide_border=true"/>
+**📚 [The Book Heaven](https://bookhub-heaven.surge.sh) — Book Discovery Platform**
+Online book browsing platform with a modern UI and curated reading recommendations.
+`React` `Firebase` `Tailwind CSS`
+→ [Live Site](https://bookhub-heaven.surge.sh) &nbsp;|&nbsp; [Source Code](https://github.com/Shariarx6T9/bookhub-client)
 
-</p>
+**👶 [Care.xyz](https://care-xyz-baby-sitting-elderly-care.vercel.app/) — Babysitting & Elderly Care Platform**
+A full-stack care service platform for finding and hiring professional caregivers across Bangladesh. Features dynamic booking, cost calculator, and location-based service selection.
+`Next.js 14` `Firebase Auth` `Tailwind CSS` `DaisyUI` `Vercel`
+→ [Live Site](https://care-xyz-baby-sitting-elderly-care.vercel.app/) &nbsp;|&nbsp; [Source Code](https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform)
 
----
+**⚙️ [MicroTask Platform](https://microtask-client-iota.vercel.app) — Micro-Tasking Marketplace**
+A role-based micro-tasking platform where Buyers post tasks, Workers complete them and earn coins, and Admins manage the ecosystem. Includes Stripe payments and Google OAuth.
+`React` `Vite` `Tailwind CSS` `React Query` `Stripe` `JWT`
+→ [Live Site](https://microtask-client-iota.vercel.app) &nbsp;|&nbsp; [Source Code](https://github.com/najmulcodes/microtask-client)
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=najmulcodes&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=najmulcodes&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:najmulhasanshahin@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/najmulcodes">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/najmulcodes">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-</p>
+**🤝 [Welfare Organization Platform](https://badaruddinwelfare-client.vercel.app) — Charity Management System**
+A full stack platform digitalizing a family-run charity — managing donations, fund distribution, help requests, and member dashboards with JWT authentication.
+`React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
+→ [Live Site](https://badaruddinwelfare-client.vercel.app) &nbsp;|&nbsp; [Source Code](https://github.com/Shariarx6T9)
 
 ---
 
-# 👀 Profile Views
+### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=najmulcodes&label=Profile%20Views&color=blue&style=for-the-badge"/>
+[![streak](https://streak-stats.demolab.com?user=najmulcodes&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262d&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=6)](https://github.com/najmulcodes)
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/najmulcodes/najmulcodes/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+### 🤝 How to Reach Me
 
-⭐ **From Najmul Hasan**
+<div align="center">
 
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://najmul-portfolio-six.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najmulcodes/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najmulhasanshahin@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/najmulcodes)
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
-</p>
+</div>
+
+<br/>
+
+**If my work is helpful, consider giving a ⭐ to the repositories!**
+
+---
+
+<div align="center">
+  <i>Open to full-time · freelance · remote opportunities 🚀</i>
+</div>
