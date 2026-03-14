@@ -1,12 +1,8 @@
 <div align="center">
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Najmul+Hasan" />
-</h1>
+# Najmul Hasan
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Najmul+Hasan" />
-</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+MERN+%7C+Next.js+%7C+TypeScript;React+%2B+Node.js+%2B+MongoDB+%2B+Tailwind;Building+clean+and+scalable+web+apps;Open+to+full-time+opportunities)
 
 <br/>
 
@@ -28,7 +24,7 @@
 
 # 👋 About Me
 
-I'm **Najmul Hasan**, a **Full Stack Developer from Bangladesh 🇧🇩** who enjoys building clean, scalable web applications and thoughtful user experiences.
+I'm **Najmul Hasan**, a **Full Stack Developer from Bangladesh 🇧🇩** passionate about building clean, scalable web applications and thoughtful user experiences.
 
 I primarily work with the **MERN stack**, along with **Next.js and TypeScript**, building both frontend interfaces and backend APIs.
 
@@ -36,10 +32,10 @@ I focus on:
 
 • Clean and maintainable code  
 • Scalable application architecture  
-• Modern UI/UX using Tailwind CSS  
-• Real production-ready projects  
+• Modern UI with Tailwind CSS  
+• Production-ready full stack projects  
 
-I recently built several full-stack applications including **ClubSphere**, **The Book Heaven**, and my **Developer Portfolio**.
+I have built several full-stack applications including **ClubSphere**, **MicroTask Platform**, **Care.xyz**, and my **Developer Portfolio**.
 
 Currently finishing my **web development internship** and actively looking for **Full Stack Developer opportunities**.
 
@@ -81,45 +77,57 @@ Currently finishing my **web development internship** and actively looking for *
 
 ### 🌐 ClubSphere — Membership & Event Platform
 
-Full stack web platform for managing club memberships, scheduling events, and handling user dashboards with authentication.
+Full stack platform for managing memberships, events, and member dashboards.
 
 **Stack:** React · Node.js · Express · MongoDB · Tailwind CSS
 
-🔗 Live Site — https://clubsphere-client1.netlify.app/  
-🔗 Repository — https://github.com/Shariarx6T9/clubsphere-client
+🔗 Live Site  
+https://clubsphere-client1.netlify.app/
+
+🔗 Repository  
+https://github.com/Shariarx6T9/clubsphere-client
 
 ---
 
-### ⚙️ MicroTask Platform — Micro-Tasking Marketplace
+### ⚙️ MicroTask Platform — Micro-Task Marketplace
 
-A role-based micro-tasking platform where Buyers post tasks, Workers complete them and earn coins, and Admins manage the ecosystem. Includes Stripe payments and Google OAuth.
+Role-based micro-tasking platform with buyer/worker/admin dashboards, Stripe payments, and Google authentication.
 
-**Stack:** React · Vite · Node.js · MongoDB · Stripe · JWT · Tailwind CSS
+**Stack:** React · Node.js · MongoDB · Stripe · JWT · Tailwind
 
-🔗 Live Site — https://microtask-client-iota.vercel.app  
-🔗 Repository — https://github.com/najmulcodes/microtask-client
+🔗 Live Site  
+https://microtask-client-iota.vercel.app
+
+🔗 Repository  
+https://github.com/najmulcodes/microtask-client
 
 ---
 
-### 🤝 Welfare Organization Platform — Charity Management System
+### 🤝 Welfare Organization Platform
 
-A full stack platform digitalizing a family-run charity — managing donations, fund distribution, help requests, and member dashboards with JWT authentication.
+Charity management platform handling donations, fund distribution, and help requests.
 
 **Stack:** React · Node.js · Express · MongoDB · JWT · Cloudinary
 
-🔗 Live Site — https://badaruddinwelfare-client.vercel.app  
-🔗 Repository — https://github.com/Shariarx6T9
+🔗 Live Site  
+https://badaruddinwelfare-client.vercel.app
+
+🔗 Repository  
+https://github.com/Shariarx6T9
 
 ---
 
-### 👶 Care.xyz — Babysitting & Elderly Care Platform
+### 👶 Care.xyz — Caregiver Platform
 
-A full-stack care service platform for finding and hiring professional caregivers across Bangladesh. Features dynamic booking with cost calculator and location-based service selection.
+Platform for finding babysitters and elderly caregivers with booking and cost calculator.
 
-**Stack:** Next.js 14 · Firebase Auth · Tailwind CSS · DaisyUI · Vercel
+**Stack:** Next.js · Firebase Auth · Tailwind · DaisyUI
 
-🔗 Live Site — https://care-xyz-baby-sitting-elderly-care.vercel.app/  
-🔗 Repository — https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform
+🔗 Live Site  
+https://care-xyz-baby-sitting-elderly-care.vercel.app/
+
+🔗 Repository  
+https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform
 
 ---
 
@@ -129,21 +137,27 @@ A full-stack care service platform for finding and hiring professional caregiver
 
 Developer portfolio showcasing projects, skills, and contact information.
 
-**Stack:** Next.js · React · Tailwind CSS · Vercel
+**Stack:** Next.js · Tailwind · Vercel
 
-🔗 Live Site — https://najmul-portfolio-six.vercel.app/  
-🔗 Repository — https://github.com/najmulcodes/najmul-portfolio
+🔗 Live Site  
+https://najmul-portfolio-six.vercel.app/
+
+🔗 Repository  
+https://github.com/najmulcodes/najmul-portfolio
 
 ---
 
-### 📚 The Book Heaven — Book Discovery Platform
+### 📚 The Book Heaven
 
-Modern web application where users can explore books and discover curated reading recommendations.
+Book discovery web app with modern UI and browsing experience.
 
-**Stack:** React · Firebase · Tailwind CSS
+**Stack:** React · Firebase · Tailwind
 
-🔗 Live Site — https://bookhub-heaven.surge.sh  
-🔗 Repository — https://github.com/Shariarx6T9/bookhub-client
+🔗 Live Site  
+https://bookhub-heaven.surge.sh
+
+🔗 Repository  
+https://github.com/Shariarx6T9/bookhub-client
 
 ---
 
