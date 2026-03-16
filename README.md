@@ -127,7 +127,7 @@ Membership and event management platform with role-based dashboards and event sc
 <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16a34a?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Shariarx6T9/clubsphere-client">
+<a href="https://github.com/najmulcodes/clubsphere-client">
 <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -157,7 +157,7 @@ Modern book discovery platform with dynamic browsing experience.
 <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-orange?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Shariarx6T9/bookhub-client">
+<a href="https://github.com/najmulcodes/bookhub-client">
 <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
