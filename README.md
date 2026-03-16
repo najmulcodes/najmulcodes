@@ -75,7 +75,7 @@ Full-stack charity management platform for tracking donations, managing help req
 
 **Stack:** React · Node.js · Express · MongoDB · JWT · Cloudinary
 
-<a href="https://badaruddinwelfare-client.vercel.app">
+<a href="https://badaruddinwelfareorg.vercel.app">
 <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-0ea5a4?style=for-the-badge"/>
 </a>
 
