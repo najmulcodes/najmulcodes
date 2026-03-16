@@ -79,7 +79,7 @@ Full-stack charity management platform for tracking donations, managing help req
 <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-0ea5a4?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Shariarx6T9">
+<a href="https://github.com/badaruddinwelfare-client">
 <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
