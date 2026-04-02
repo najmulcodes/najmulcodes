@@ -77,6 +77,7 @@ const najmul = {
 <td width="50%" valign="top">
 
 ### 🌟 Badar Uddin Welfare Platform
+![Preview](./preview/badaruddin.png)
 > *Charity management system built for real organizational use*
 
 ```
@@ -95,6 +96,8 @@ const najmul = {
 <td width="50%" valign="top">
 
 ### ⚙️ MicroTask Platform
+
+![Preview](./preview/microtask.png)
 > *Multi-role micro-tasking with lifecycle management & payments*
 
 ```
@@ -117,6 +120,8 @@ const najmul = {
 <td width="50%" valign="top">
 
 ### 👶 Care.xyz
+
+![Preview](./preview/care.xyz.png)
 > *Caregiver booking platform with smart pricing & location filtering*
 
 ```
@@ -135,6 +140,8 @@ const najmul = {
 <td width="50%" valign="top">
 
 ### 🌐 ClubSphere
+
+![Preview](./preview/clubsphere.png)
 > *Membership & event management with role-based dashboards*
 
 ```
