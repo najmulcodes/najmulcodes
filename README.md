@@ -69,51 +69,66 @@ I’m currently finishing my **web development internship** and actively seeking
 
 # 🚀 Featured Projects
 
-## 🌟 Badar Uddin Welfare Platform
+## 🌟 Badar Uddin Welfare Organization
 
-Full-stack charity management platform for tracking donations, managing help requests, and maintaining financial transparency.
+A production-focused charity management platform designed to handle real-world donation and fund management workflows.
 
-**Stack:** React · Node.js · Express · MongoDB · JWT · Cloudinary
+This system allows users to request donations, while admins review, approve, and manage financial activities through a structured dashboard.
 
-<a href="https://badaruddinwelfareorg.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-0ea5a4?style=for-the-badge"/>
-</a>
+🔑 Key Features:
+• Role-based dashboards (Admin / User)  
+• Donation request and approval workflow  
+• Secure JWT authentication  
+• Fund tracking and activity management  
+• Image upload with Cloudinary  
 
-<a href="https://github.com/badaruddinwelfare-client">
-<img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+🛠 Tech Stack:
+React, Node.js, Express, MongoDB, JWT, Cloudinary
+
+🔗 Live: https://badaruddinwelfareorg.vercel.app/  
+🔗 Client Code: https://github.com/najmulcodes/badaruddinwelfare-client
 
 ---
 
 ## ⚙️ MicroTask Platform
 
-Role-based micro-task marketplace where buyers post tasks and workers earn rewards. Includes Stripe payments and Google authentication.
+A full-stack micro-task marketplace built with a multi-role system including Worker, Buyer, and Admin dashboards.
 
-**Stack:** React · Node.js · MongoDB · Stripe · JWT · Tailwind
+The platform handles task creation, submission, approval workflows, and secure payment processing using Stripe.
 
-<a href="https://microtask-client-iota.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-2563eb?style=for-the-badge"/>
-</a>
+🔑 Key Features:
+• Multi-role dashboards (Worker / Buyer / Admin)  
+• Task creation, submission, and approval system  
+• JWT-based authentication  
+• Stripe payment integration  
+• Real-time task status management  
 
-<a href="https://github.com/najmulcodes/microtask-client">
-<img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+🛠 Tech Stack:
+React, Node.js, Express, MongoDB, JWT, Stripe
+
+🔗 Live: https://microtask-client-iota.vercel.app  
+🔗 Client Code: https://github.com/najmulcodes/microtask-client
 
 ---
 
 ## 👶 Care.xyz
 
-Platform for finding babysitters and elderly caregivers with booking system and dynamic cost calculator.
+A service booking platform built with Next.js that connects users with babysitters and elderly caregivers.
 
-**Stack:** Next.js · Firebase Auth · Tailwind · DaisyUI
+The system includes dynamic pricing, location-based filtering, and private booking routes with authentication.
 
-<a href="https://care-xyz-baby-sitting-elderly-care.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-9333ea?style=for-the-badge"/>
-</a>
+🔑 Key Features:
+• Caregiver search with location filtering  
+• Dynamic pricing system  
+• Firebase authentication  
+• Private booking routes  
+• Responsive UI with Tailwind CSS  
 
-<a href="https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform">
-<img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+🛠 Tech Stack:
+Next.js, React, Firebase, Tailwind CSS
+
+🔗 Live: https://care-xyz-baby-sitting-elderly-care.vercel.app  
+🔗 Client Code: https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform
 
 ---
 
