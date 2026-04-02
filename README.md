@@ -1,24 +1,18 @@
-<div align="center">
+<h1 align="center">Najmul Hasan</h1>
 
-# Najmul Hasan
+<p align="center">
+Full Stack Developer (MERN • Next.js • TypeScript)
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+MERN+%7C+Next.js+%7C+TypeScript;React+%2B+Node.js+%2B+MongoDB+%2B+Tailwind;Building+clean+and+scalable+web+apps;Open+to+full-time+opportunities)
+<p align="center">
+Building real-world, scalable web applications with clean architecture.
+</p>
 
-<br/>
-
-<a href="https://github.com/najmulcodes">
-<img src="https://img.shields.io/github/followers/najmulcodes?label=Followers&style=social"/>
-</a>
-
-<a href="mailto:najmulhasanshahin@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/najmulcodes/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
-</a>
-
-</div>
+<p align="center">
+<a href="https://najmul-portfolio-six.vercel.app/">Portfolio</a> •
+<a href="https://github.com/najmulcodes">GitHub</a> •
+<a href="https://www.linkedin.com/in/najmulcodes/">LinkedIn</a>
+</p>
 
 ---
 
@@ -70,10 +64,9 @@ I’m currently finishing my **web development internship** and actively seeking
 # 🚀 Featured Projects
 
 ## 🌟 Badar Uddin Welfare Organization
+![Preview](./badaruddin.png)
 
 A production-focused charity management platform designed to handle real-world donation and fund management workflows.
-
-This system allows users to request donations, while admins review, approve, and manage financial activities through a structured dashboard.
 
 🔑 Key Features:
 • Role-based dashboards (Admin / User)  
@@ -83,18 +76,22 @@ This system allows users to request donations, while admins review, approve, and
 • Image upload with Cloudinary  
 
 🛠 Tech Stack:
-React, Node.js, Express, MongoDB, JWT, Cloudinary
+React · Node.js · Express · MongoDB · JWT · Cloudinary  
 
-🔗 Live: https://badaruddinwelfareorg.vercel.app/  
-🔗 Client Code: https://github.com/najmulcodes/badaruddinwelfare-client
+<a href="https://badaruddinwelfareorg.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-0ea5a4?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/najmulcodes/badaruddinwelfare-client">
+<img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
 ## ⚙️ MicroTask Platform
+![Preview](./microtask.png)
 
-A full-stack micro-task marketplace built with a multi-role system including Worker, Buyer, and Admin dashboards.
-
-The platform handles task creation, submission, approval workflows, and secure payment processing using Stripe.
+A full-stack micro-task marketplace with Worker, Buyer, and Admin roles, handling task lifecycle and secure payments.
 
 🔑 Key Features:
 • Multi-role dashboards (Worker / Buyer / Admin)  
@@ -104,39 +101,56 @@ The platform handles task creation, submission, approval workflows, and secure p
 • Real-time task status management  
 
 🛠 Tech Stack:
-React, Node.js, Express, MongoDB, JWT, Stripe
+React · Node.js · Express · MongoDB · JWT · Stripe  
 
-🔗 Live: https://microtask-client-iota.vercel.app  
-🔗 Client Code: https://github.com/najmulcodes/microtask-client
+<a href="https://microtask-client-iota.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-2563eb?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/najmulcodes/microtask-client">
+<img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
 ## 👶 Care.xyz
+![Preview](./carexyz.png)
 
-A service booking platform built with Next.js that connects users with babysitters and elderly caregivers.
-
-The system includes dynamic pricing, location-based filtering, and private booking routes with authentication.
+A service booking platform for hiring babysitters and elderly caregivers with dynamic pricing and secure booking system.
 
 🔑 Key Features:
 • Caregiver search with location filtering  
 • Dynamic pricing system  
 • Firebase authentication  
 • Private booking routes  
-• Responsive UI with Tailwind CSS  
+• Responsive UI  
 
 🛠 Tech Stack:
-Next.js, React, Firebase, Tailwind CSS
+Next.js · React · Firebase · Tailwind CSS  
 
-🔗 Live: https://care-xyz-baby-sitting-elderly-care.vercel.app  
-🔗 Client Code: https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform
+<a href="https://care-xyz-baby-sitting-elderly-care.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-9333ea?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform">
+<img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
 ## 🌐 ClubSphere
 
-Membership and event management platform with role-based dashboards and event scheduling.
+A full-stack membership and event management platform designed to handle community operations with structured role-based access.
 
-**Stack:** React · Node.js · Express · MongoDB · Tailwind
+🔑 Key Features:
+• Role-based dashboards (Admin / Member)  
+• Event creation and scheduling system  
+• Membership management  
+• Secure authentication and protected routes  
+• Responsive UI with reusable components  
+
+🛠 Tech Stack:
+React · Node.js · Express · MongoDB · Tailwind CSS  
 
 <a href="https://clubsphere-client1.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-16a34a?style=for-the-badge"/>
@@ -150,7 +164,17 @@ Membership and event management platform with role-based dashboards and event sc
 
 ## 💼 Personal Portfolio
 
-Developer portfolio built with **Next.js and Tailwind CSS** to showcase projects and skills.
+A modern developer portfolio built to showcase projects, skills, and technical experience with a focus on clean design and performance.
+
+🔑 Key Features:
+• Fully responsive modern UI  
+• Project showcase with live demos  
+• Smooth navigation and structured layout  
+• Optimized performance and fast loading  
+• Clean and minimal design system  
+
+🛠 Tech Stack:
+Next.js · React · Tailwind CSS  
 
 <a href="https://najmul-portfolio-six.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge"/>
@@ -162,11 +186,19 @@ Developer portfolio built with **Next.js and Tailwind CSS** to showcase projects
 
 ---
 
-## 📚 The Book Heaven
+## 📚 Book Heaven
 
-Modern book discovery platform with dynamic browsing experience.
+A modern book discovery platform that allows users to explore, browse, and interact with book collections through a clean and responsive interface.
 
-**Stack:** React · Firebase · Tailwind
+🔑 Key Features:
+• Dynamic book browsing and listing  
+• Category-based filtering  
+• Firebase authentication  
+• Responsive UI for all devices  
+• Clean component-based frontend structure  
+
+🛠 Tech Stack:
+React · Firebase · Tailwind CSS  
 
 <a href="https://bookhub-heaven.surge.sh">
 <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-orange?style=for-the-badge"/>
@@ -175,7 +207,6 @@ Modern book discovery platform with dynamic browsing experience.
 <a href="https://github.com/najmulcodes/bookhub-client">
 <img src="https://img.shields.io/badge/View%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 ---
 
 # 📊 GitHub Stats
@@ -198,6 +229,12 @@ Modern book discovery platform with dynamic browsing experience.
 ✔ Open to **Full-Time / Remote Opportunities**
 
 ---
+
+## 📬 Contact
+
+📧 najmulhasanshahin@gmail.com  
+🌐 Portfolio: https://najmul-portfolio-six.vercel.app  
+💼 LinkedIn: https://www.linkedin.com/in/najmulcodes/
 
 <div align="center">
 
