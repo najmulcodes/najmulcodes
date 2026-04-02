@@ -2,10 +2,6 @@
 
 # Najmul Hasan
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+MERN+%7C+Next.js+%7C+TypeScript;React+%2B+Node.js+%2B+MongoDB+%2B+Tailwind;Building+clean+and+scalable+web+apps;Open+to+full-time+opportunities)
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Production-Ready+Apps;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/>
