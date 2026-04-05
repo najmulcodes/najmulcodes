@@ -63,61 +63,101 @@ I care about code that is structured, maintainable, and purposefully built. Curr
 
 ## Featured Projects
 
-### [Badar Uddin Welfare](https://badaruddinwelfareorg.vercel.app/) — Charity Management Platform
+### Badar Uddin Welfare
+
+[![Badar Uddin Welfare](./preview/badaruddin.png)](https://badaruddinwelfareorg.vercel.app/)
 
 A production-grade charity management system serving a real organization. Built around role-based dashboards, donation request workflows, admin approval queues, and Cloudinary-backed media — designed to replace manual fund-tracking processes.
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
 
-[Live Site](https://badaruddinwelfareorg.vercel.app/) · [Source](https://github.com/najmulcodes/badaruddinwelfare-client)
+[Live Site](https://badaruddinwelfareorg.vercel.app/) · [Source Code](https://github.com/najmulcodes/badaruddinwelfare-client)
 
 ---
 
-### [MicroTask Platform](https://microtask-client-iota.vercel.app) — Freelance Micro-Tasking Marketplace
+### MicroTask Platform
+
+[![MicroTask Platform](./preview/microtask.png)](https://microtask-client-iota.vercel.app)
 
 A multi-role task marketplace with distinct Worker, Buyer, and Admin experiences. Features full task lifecycle management, Stripe-based coin purchases, submission approval flows, and Google OAuth — all secured with JWT.
 
 `React` `Node.js` `Express` `MongoDB` `Stripe` `JWT`
 
-> Demo credentials — Email: `admin@microtask.com` · Password: `Admin123` · Role: Admin
+> **Demo** — Email: `admin@microtask.com` · Password: `Admin123` · Role: Admin
 
-[Live Site](https://microtask-client-iota.vercel.app) · [Source](https://github.com/najmulcodes/microtask-client)
+[Live Site](https://microtask-client-iota.vercel.app) · [Source Code](https://github.com/najmulcodes/microtask-client)
 
 ---
 
-### [DevFolio Analyzer](https://devfolio-analyzer.vercel.app/) — AI-Powered GitHub Profile Analyzer
+### DevFolio Analyzer
+
+[![DevFolio Analyzer](./preview/devfolio-analyzer.png)](https://devfolio-analyzer.vercel.app/)
 
 Fetches live GitHub data, scores developer profiles deterministically across six dimensions, and layers AI-generated insights via the Anthropic Claude API. Authenticated users can save history and track score changes over time; guests get instant analysis without an account.
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `GitHub REST API` `Claude API`
 
-[Live Site](https://devfolio-analyzer.vercel.app/) · [Source](https://github.com/najmulcodes/devfolio-analyzer)
+[Live Site](https://devfolio-analyzer.vercel.app/) · [Source Code](https://github.com/najmulcodes/devfolio-analyzer)
 
 ---
 
-### [LiveCollab](https://livecollab-rho.vercel.app/) — Real-Time Team Collaboration
+### LiveCollab
+
+[![LiveCollab](./preview/livecollab.png)](https://livecollab-rho.vercel.app/)
 
 A full-stack Kanban board with Socket.IO-powered drag-and-drop that syncs instantly across all connected clients. Includes workspace management with invite codes, live presence indicators, and a timestamped activity log.
 
 `React` `Vite` `Tailwind CSS` `Zustand` `Node.js` `Socket.IO` `MongoDB`
 
-[Live Site](https://livecollab-rho.vercel.app/) · [Source](https://github.com/najmulcodes/livecollab-client)
+[Live Site](https://livecollab-rho.vercel.app/) · [Source Code](https://github.com/najmulcodes/livecollab-client)
 
 ---
 
-### [Care.xyz](https://care-xyz-baby-sitting-elderly-care.vercel.app) — Care Service Booking Platform
+### Gatherly
+
+[![Gatherly](./preview/gatherly.png)](https://gatherly-navy.vercel.app/)
+
+A community discovery and management platform for Bangladesh built with Next.js 14 App Router. Features credential and Google OAuth auth via NextAuth.js, a searchable community catalog with category filters, and protected organizer routes.
+
+`Next.js 14` `NextAuth.js` `Custom CSS` `localStorage`
+
+[Live Site](https://gatherly-navy.vercel.app/) · [Source Code](https://github.com/najmulcodes/Gatherly)
+
+---
+
+### Care.xyz
+
+[![Care.xyz](./preview/care.xyz.png)](https://care-xyz-baby-sitting-elderly-care.vercel.app)
 
 A Next.js booking platform for professional caregivers across Bangladesh. Implements cascading location filtering, dynamic pricing, Firebase authentication, and fully protected booking routes.
 
 `Next.js` `React` `Firebase` `Tailwind CSS`
 
-[Live Site](https://care-xyz-baby-sitting-elderly-care.vercel.app) · [Source](https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform)
+[Live Site](https://care-xyz-baby-sitting-elderly-care.vercel.app) · [Source Code](https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform)
 
 ---
 
-### [Gatherly](https://gatherly-navy.vercel.app/) · [ClubSphere](https://clubsphere-client1.netlify.app/) · [BookHub](https://bookhub-heaven.surge.sh)
+### ClubSphere
 
-Additional projects covering community discovery (Next.js 14, NextAuth), club membership management (MERN, JWT), and CRUD-based book cataloging. Full details on the [portfolio](https://najmul-portfolio-six.vercel.app).
+[![ClubSphere](./preview/clubsphere.png)](https://clubsphere-client1.netlify.app/)
+
+A role-based club management system with event handling, membership approval flows, and protected routes using JWT authentication. Includes scoped dashboards for members and administrators.
+
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+[Live Site](https://clubsphere-client1.netlify.app/) · [Source Code](https://github.com/najmulcodes/clubsphere-client)
+
+---
+
+### BookHub
+
+[![BookHub](./preview/bookhub.png)](https://bookhub-heaven.surge.sh)
+
+A CRUD-based book management platform with REST API integration and real-time UI updates. Clean interface for browsing, adding, editing, and removing book records.
+
+`React` `Node.js` `Express` `MongoDB`
+
+[Live Site](https://bookhub-heaven.surge.sh) · [Source Code](https://github.com/najmulcodes/bookhub-client)
 
 ---
 
