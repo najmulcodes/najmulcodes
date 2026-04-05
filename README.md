@@ -2,26 +2,34 @@
 
 # Najmul Hasan
 
-**Full Stack Developer · MERN Stack · Next.js**
+### Full Stack Developer · MERN Stack · Next.js
 
-I build production-ready web applications with a focus on clean architecture,
-role-based systems, and real-world usability. My stack centers on the JavaScript
-ecosystem — React and Next.js on the frontend, Node.js and Express on the backend,
-MongoDB as the primary data layer.
+I architect and ship production-ready web applications built on the JavaScript ecosystem.  
+My work spans role-based systems, real-time infrastructure, payment pipelines, and AI integrations —  
+with a consistent focus on clean architecture, maintainable code, and real organizational impact.
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://najmul-portfolio-six.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najmulcodes/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:najmulhasanshahin@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/najmulcodes)
 
 </div>
+
+<br/>
 
 ---
 
 ## About
 
-Full Stack Developer with hands-on experience shipping complete web applications — from authentication and role-based access to payment integration and real-time features. I came to development from a business background (BBA in Accounting & Finance), which gives me an appreciation for how software maps to real organizational problems.
+Full Stack Developer with a track record of delivering complete, deployed web systems — not prototypes. My background in Accounting & Finance (BBA) shaped how I think about software: requirements come from real workflows, data has business meaning, and systems need to be trustworthy before they go live.
 
-I care about code that is structured, maintainable, and purposefully built. Currently deepening my work in backend architecture, API design, and scalable system patterns.
+I build across the full stack: React and Next.js for the frontend, Node.js and Express for the backend, MongoDB as the primary database. I've integrated Stripe payments, Socket.IO real-time sync, JWT/Firebase authentication, Cloudinary media management, and the Anthropic Claude API across production projects.
+
+Currently focusing on backend architecture, API design, and scalable system patterns.
+
+<br/>
 
 ---
 
@@ -45,13 +53,14 @@ I care about code that is structured, maintainable, and purposefully built. Curr
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Auth, Payments & Media**
+**Integrations & Services**
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Claude API](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white)
 
-**Tools & Platforms**
+**Tooling & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -59,105 +68,127 @@ I care about code that is structured, maintainable, and purposefully built. Curr
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
+<br/>
+
 ---
 
-## Featured Projects
+## Projects
 
-### Badar Uddin Welfare
+> Ordered by architectural complexity, real-world impact, and system depth.
+
+<br/>
+
+### Badar Uddin Welfare — Production Charity Management System
 
 [![Badar Uddin Welfare](./preview/badaruddin.png)](https://badaruddinwelfareorg.vercel.app/)
 
-A production-grade charity management system serving a real organization. Built around role-based dashboards, donation request workflows, admin approval queues, and Cloudinary-backed media — designed to replace manual fund-tracking processes.
+A live, organization-facing platform built to replace manual fund-tracking and approval workflows for a real charitable organization. The system implements role-based access across Admin and Member tiers, a full donation request lifecycle with admin approval gates, and Cloudinary-backed document and media handling. Designed with operational reliability as the primary constraint — data integrity and audit trails take precedence over feature surface area.
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
+**Stack** — `React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
 
 [Live Site](https://badaruddinwelfareorg.vercel.app/) · [Source Code](https://github.com/najmulcodes/badaruddinwelfare-client)
 
+<br/>
+
 ---
 
-### MicroTask Platform
+### MicroTask Platform — Multi-Role Freelance Marketplace
 
 [![MicroTask Platform](./preview/microtask.png)](https://microtask-client-iota.vercel.app)
 
-A multi-role task marketplace with distinct Worker, Buyer, and Admin experiences. Features full task lifecycle management, Stripe-based coin purchases, submission approval flows, and Google OAuth — all secured with JWT.
+A complete task marketplace architected around three distinct user roles: Workers, Buyers, and Admins — each with isolated dashboards, permissions, and data views. The platform handles the full task lifecycle from posting through submission and approval, integrates Stripe for a coin-based payment system, and uses Google OAuth alongside JWT for layered authentication. Role resolution happens at the API level, not just the UI, ensuring backend authorization integrity.
 
-`React` `Node.js` `Express` `MongoDB` `Stripe` `JWT`
+**Stack** — `React` `Node.js` `Express` `MongoDB` `Stripe` `JWT` `Firebase Auth`
 
-> **Demo** — Email: `admin@microtask.com` · Password: `Admin123` · Role: Admin
+> **Demo access** — `admin@microtask.com` / `Admin123` (Admin role)
 
 [Live Site](https://microtask-client-iota.vercel.app) · [Source Code](https://github.com/najmulcodes/microtask-client)
 
----
-
-### DevFolio Analyzer
-
-[![DevFolio Analyzer](./preview/devfolio-analyzer.png)](https://devfolio-analyzer.vercel.app/)
-
-Fetches live GitHub data, scores developer profiles deterministically across six dimensions, and layers AI-generated insights via the Anthropic Claude API. Authenticated users can save history and track score changes over time; guests get instant analysis without an account.
-
-`React` `Node.js` `Express` `MongoDB` `JWT` `GitHub REST API` `Claude API`
-
-[Live Site](https://devfolio-analyzer.vercel.app/) · [Source Code](https://github.com/najmulcodes/devfolio-analyzer)
+<br/>
 
 ---
 
-### LiveCollab
+### LiveCollab — Real-Time Team Collaboration Platform
 
 [![LiveCollab](./preview/livecollab.png)](https://livecollab-rho.vercel.app/)
 
-A full-stack Kanban board with Socket.IO-powered drag-and-drop that syncs instantly across all connected clients. Includes workspace management with invite codes, live presence indicators, and a timestamped activity log.
+A full-stack Kanban collaboration system with sub-100ms drag-and-drop sync across all connected clients via Socket.IO. The architecture uses rooms scoped per workspace to minimize broadcast surface, optimistic UI updates with server-side reconciliation for conflict resolution, and heartbeat-based presence tracking to handle unexpected disconnects cleanly. Workspaces support invite-code-based onboarding, member management, and a persistent timestamped activity log.
 
-`React` `Vite` `Tailwind CSS` `Zustand` `Node.js` `Socket.IO` `MongoDB`
+**Stack** — `React` `Vite` `Tailwind CSS` `Zustand` `React Query` `Node.js` `Express` `Socket.IO` `MongoDB` `JWT`
 
 [Live Site](https://livecollab-rho.vercel.app/) · [Source Code](https://github.com/najmulcodes/livecollab-client)
 
----
-
-### Gatherly
-
-[![Gatherly](./preview/gatherly.png)](https://gatherly-navy.vercel.app/)
-
-A community discovery and management platform for Bangladesh built with Next.js 14 App Router. Features credential and Google OAuth auth via NextAuth.js, a searchable community catalog with category filters, and protected organizer routes.
-
-`Next.js 14` `NextAuth.js` `Custom CSS` `localStorage`
-
-[Live Site](https://gatherly-navy.vercel.app/) · [Source Code](https://github.com/najmulcodes/Gatherly)
+<br/>
 
 ---
 
-### Care.xyz
+### DevFolio Analyzer — AI-Powered GitHub Profile Analysis
+
+[![DevFolio Analyzer](./preview/devfolio-analyzer.png)](https://devfolio-analyzer.vercel.app/)
+
+A full-stack analytics platform that fetches live GitHub profile data via the REST API, applies a deterministic scoring model across six weighted dimensions (repository volume, stars, follower count, activity cadence, profile completeness, and portfolio signal), then layers Anthropic Claude API-generated insights on top. The scoring pipeline runs independently of the AI layer, ensuring consistent results with graceful fallback when the API is unavailable. Authenticated users receive persistent history with score-over-time charting via Recharts; guests get immediate analysis with no friction.
+
+**Stack** — `React` `Node.js` `Express` `MongoDB` `JWT` `GitHub REST API` `Anthropic Claude API` `Recharts`
+
+[Live Site](https://devfolio-analyzer.vercel.app/) · [Source Code](https://github.com/najmulcodes/devfolio-analyzer)
+
+<br/>
+
+---
+
+### Care.xyz — Care Service Booking Platform
 
 [![Care.xyz](./preview/care.xyz.png)](https://care-xyz-baby-sitting-elderly-care.vercel.app)
 
-A Next.js booking platform for professional caregivers across Bangladesh. Implements cascading location filtering, dynamic pricing, Firebase authentication, and fully protected booking routes.
+A Next.js booking platform for professional caregivers built with cascading location selectors that filter availability by district and sub-district, a dynamic pricing engine that adjusts based on service type and duration, and Firebase-backed authentication with protected booking routes enforced at both the page and API level. The architecture prioritizes the booking flow UX — reducing steps between service discovery and confirmed booking.
 
-`Next.js` `React` `Firebase` `Tailwind CSS`
+**Stack** — `Next.js` `React` `Firebase` `Tailwind CSS`
 
 [Live Site](https://care-xyz-baby-sitting-elderly-care.vercel.app) · [Source Code](https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform)
 
+<br/>
+
 ---
 
-### ClubSphere
+### Gatherly — Community Discovery Platform
+
+[![Gatherly](./preview/gatherly.png)](https://gatherly-navy.vercel.app/)
+
+A Next.js 14 App Router platform that connects people with local communities across Bangladesh. Implements dual-provider authentication via NextAuth.js (credential-based and Google OAuth), a searchable and filterable community catalog, protected organizer routes enforced at the edge via Next.js middleware, and a community management dashboard with inline validation. Built mobile-first with a responsive layout designed for real-world browsing patterns.
+
+**Stack** — `Next.js 14` `NextAuth.js` `Custom CSS` `localStorage`
+
+[Live Site](https://gatherly-navy.vercel.app/) · [Source Code](https://github.com/najmulcodes/Gatherly)
+
+<br/>
+
+---
+
+### ClubSphere — Club Membership & Event Management
 
 [![ClubSphere](./preview/clubsphere.png)](https://clubsphere-client1.netlify.app/)
 
-A role-based club management system with event handling, membership approval flows, and protected routes using JWT authentication. Includes scoped dashboards for members and administrators.
+A MERN-stack club management system with role-scoped dashboards for administrators and members, a membership approval workflow, and event lifecycle management. Authorization is enforced at the API layer via JWT middleware — route access is determined server-side, not inferred from the client state.
 
-`React` `Node.js` `Express` `MongoDB` `JWT`
+**Stack** — `React` `Node.js` `Express` `MongoDB` `JWT`
 
 [Live Site](https://clubsphere-client1.netlify.app/) · [Source Code](https://github.com/najmulcodes/clubsphere-client)
 
+<br/>
+
 ---
 
-### BookHub
+### BookHub — Book Management Platform
 
 [![BookHub](./preview/bookhub.png)](https://bookhub-heaven.surge.sh)
 
-A CRUD-based book management platform with REST API integration and real-time UI updates. Clean interface for browsing, adding, editing, and removing book records.
+A full-stack CRUD platform for managing book records, demonstrating clean REST API design with Express, MongoDB document modeling, and React state management with real-time UI feedback on create, update, and delete operations. A focused project built to validate core full-stack integration patterns.
 
-`React` `Node.js` `Express` `MongoDB`
+**Stack** — `React` `Node.js` `Express` `MongoDB`
 
 [Live Site](https://bookhub-heaven.surge.sh) · [Source Code](https://github.com/najmulcodes/bookhub-client)
+
+<br/>
 
 ---
 
@@ -165,9 +196,9 @@ A CRUD-based book management platform with REST API integration and real-time UI
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=najmulcodes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmulcodes&layout=compact&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=najmulcodes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmulcodes&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
@@ -175,18 +206,22 @@ A CRUD-based book management platform with REST API integration and real-time UI
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najmulcodes&theme=github-compact&hide_border=true&area=true)](https://github.com/najmulcodes)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najmulcodes&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/najmulcodes)
 
 </div>
 
+<br/>
+
 ---
 
-## Currently Learning
+## Currently Studying
 
-- Advanced backend patterns — service layers, repository pattern, clean architecture
-- System design fundamentals — scalability, caching, database indexing
-- TypeScript in depth — generics, utility types, strict-mode codebases
-- Open source contribution workflow
+- Backend architecture patterns — service layers, repository pattern, dependency injection
+- System design — database indexing, caching strategies, horizontal scalability
+- TypeScript in depth — generics, conditional types, strict-mode codebases
+- Open source contribution workflow and maintaining public packages
+
+<br/>
 
 ---
 
@@ -194,11 +229,13 @@ A CRUD-based book management platform with REST API integration and real-time UI
 
 **Email** — [najmulhasanshahin@gmail.com](mailto:najmulhasanshahin@gmail.com)  
 **Portfolio** — [najmul-portfolio-six.vercel.app](https://najmul-portfolio-six.vercel.app)  
-**GitHub** — [github.com/najmulcodes](https://github.com/najmulcodes)  
-**LinkedIn** — [linkedin.com/in/najmulcodes](https://www.linkedin.com/in/najmulcodes/)
+**LinkedIn** — [linkedin.com/in/najmulcodes](https://www.linkedin.com/in/najmulcodes/)  
+**GitHub** — [github.com/najmulcodes](https://github.com/najmulcodes)
+
+<br/>
 
 ---
 
 <div align="center">
-<sub>Open to full-time roles and freelance projects — based in Dhaka, Bangladesh.</sub>
+<sub>Available for full-time roles and freelance engagements · Dhaka, Bangladesh · Open to remote</sub>
 </div>
