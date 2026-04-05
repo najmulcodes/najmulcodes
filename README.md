@@ -2,233 +2,163 @@
 
 # Najmul Hasan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Production-Ready+Apps;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
+**Full Stack Developer · MERN Stack · Next.js**
 
-<br/>
+I build production-ready web applications with a focus on clean architecture,
+role-based systems, and real-world usability. My stack centers on the JavaScript
+ecosystem — React and Next.js on the frontend, Node.js and Express on the backend,
+MongoDB as the primary data layer.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://najmul-portfolio-six.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najmulcodes/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/najmulcodes)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najmulhasanshahin@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=najmulcodes&color=00d9ff&style=flat-square&label=Profile+Views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://najmul-portfolio-six.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najmulcodes/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:najmulhasanshahin@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-## ❝ I don't just write code — I architect experiences ❞
+Full Stack Developer with hands-on experience shipping complete web applications — from authentication and role-based access to payment integration and real-time features. I came to development from a business background (BBA in Accounting & Finance), which gives me an appreciation for how software maps to real organizational problems.
 
-</div>
-
-```javascript
-const najmul = {
-  role      : "Full Stack Developer",
-  location  : "Bangladesh 🇧🇩",
-  stack     : ["React", "Next.js", "TypeScript", "Node.js", "Express", "MongoDB"],
-  auth      : ["JWT", "Firebase"],
-  payments  : ["Stripe"],
-  media     : ["Cloudinary"],
-  learning  : ["Advanced Backend", "System Design"],
-  available : true  // ← open to full-time & remote 🚀
-};
-```
+I care about code that is structured, maintainable, and purposefully built. Currently deepening my work in backend architecture, API design, and scalable system patterns.
 
 ---
 
-## 🧠 Tech Arsenal
+## Tech Stack
 
-<div align="center">
+**Frontend**
 
-### ⚡ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🛠 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend & Database**
 
-### 🔧 Tools & Services
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-</div>
+**Auth, Payments & Media**
 
----
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-## 🚀 Featured Projects
+**Tools & Platforms**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌟 Badar Uddin Welfare Platform
-![Preview](./preview/badaruddin.png)
-> *Charity management system built for real organizational use*
-
-```
-✦ Role-Based Dashboards   → Admin / User
-✦ Donation Workflows      → Request & Approval
-✦ Secure Auth             → JWT Protected
-✦ Fund Tracking           → Activity Management
-```
-
-**Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
-
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE-badaruddinwelfareorg.vercel.app-0ea5a4?style=flat-square)](https://badaruddinwelfareorg.vercel.app/)
-[![Source Code](https://img.shields.io/badge/📁_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/najmulcodes/badaruddinwelfare-client)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ MicroTask Platform
-
-![Preview](./preview/microtask.png)
-> *Multi-role micro-tasking with lifecycle management & payments*
-
-```
-✦ Multi-Role System       → Worker / Buyer / Admin
-✦ Task Lifecycle          → Submit & Approve
-✦ Secure Auth             → JWT Protected
-✦ Payments                → Stripe Integrated
-```
-
-**Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Stripe`
-
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE-microtask--client.vercel.app-2563eb?style=flat-square)](https://microtask-client-iota.vercel.app)
-[![Source Code](https://img.shields.io/badge/📁_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/najmulcodes/microtask-client)
-
-> 🔐 **Demo:** `admin@microtask.com` / `Admin123`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👶 Care.xyz
-
-![Preview](./preview/care.xyz.png)
-> *Caregiver booking platform with smart pricing & location filtering*
-
-```
-✦ Location Search         → Filter by Area
-✦ Dynamic Pricing         → Smart System
-✦ Auth                    → Firebase Protected
-✦ Booking Routes          → Privately Guarded
-```
-
-**Stack:** `Next.js` `React` `Firebase` `Tailwind CSS`
-
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE-care--xyz.vercel.app-9333ea?style=flat-square)](https://care-xyz-baby-sitting-elderly-care.vercel.app/)
-[![Source Code](https://img.shields.io/badge/📁_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 ClubSphere
-
-![Preview](./preview/clubsphere.png)
-> *Membership & event management with role-based dashboards*
-
-```
-✦ Member Management       → Join & Manage
-✦ Event System            → Create & Attend
-✦ Role Dashboards         → Scoped Views
-✦ Clean UX                → Intuitive Flow
-```
-
-**Stack:** `React` `Node.js` `MongoDB` `JWT`
-
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE-clubsphere.netlify.app-f59e0b?style=flat-square)](https://clubsphere-client1.netlify.app/)
-[![Source Code](https://img.shields.io/badge/📁_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/najmulcodes/clubsphere-client)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📦 More Projects (click to expand)</b></summary>
-
-<br/>
-
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| 📚 **Book Heaven** | Book discovery platform with filtering & auth | React, Firebase | [Live](https://bookhub-heaven.surge.sh) · [Code](https://github.com/najmulcodes/bookhub-client) |
-| 💼 **Portfolio** | Modern developer portfolio built with Next.js | Next.js, Tailwind | [Live](https://najmul-portfolio-six.vercel.app/) · [Code](https://github.com/najmulcodes/najmul-portfolio) |
-
-</details>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+### [Badar Uddin Welfare](https://badaruddinwelfareorg.vercel.app/) — Charity Management Platform
+
+A production-grade charity management system serving a real organization. Built around role-based dashboards, donation request workflows, admin approval queues, and Cloudinary-backed media — designed to replace manual fund-tracking processes.
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
+
+[Live Site](https://badaruddinwelfareorg.vercel.app/) · [Source](https://github.com/najmulcodes/badaruddinwelfare-client)
+
+---
+
+### [MicroTask Platform](https://microtask-client-iota.vercel.app) — Freelance Micro-Tasking Marketplace
+
+A multi-role task marketplace with distinct Worker, Buyer, and Admin experiences. Features full task lifecycle management, Stripe-based coin purchases, submission approval flows, and Google OAuth — all secured with JWT.
+
+`React` `Node.js` `Express` `MongoDB` `Stripe` `JWT`
+
+> Demo credentials — Email: `admin@microtask.com` · Password: `Admin123` · Role: Admin
+
+[Live Site](https://microtask-client-iota.vercel.app) · [Source](https://github.com/najmulcodes/microtask-client)
+
+---
+
+### [DevFolio Analyzer](https://devfolio-analyzer.vercel.app/) — AI-Powered GitHub Profile Analyzer
+
+Fetches live GitHub data, scores developer profiles deterministically across six dimensions, and layers AI-generated insights via the Anthropic Claude API. Authenticated users can save history and track score changes over time; guests get instant analysis without an account.
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `GitHub REST API` `Claude API`
+
+[Live Site](https://devfolio-analyzer.vercel.app/) · [Source](https://github.com/najmulcodes/devfolio-analyzer)
+
+---
+
+### [LiveCollab](https://livecollab-rho.vercel.app/) — Real-Time Team Collaboration
+
+A full-stack Kanban board with Socket.IO-powered drag-and-drop that syncs instantly across all connected clients. Includes workspace management with invite codes, live presence indicators, and a timestamped activity log.
+
+`React` `Vite` `Tailwind CSS` `Zustand` `Node.js` `Socket.IO` `MongoDB`
+
+[Live Site](https://livecollab-rho.vercel.app/) · [Source](https://github.com/najmulcodes/livecollab-client)
+
+---
+
+### [Care.xyz](https://care-xyz-baby-sitting-elderly-care.vercel.app) — Care Service Booking Platform
+
+A Next.js booking platform for professional caregivers across Bangladesh. Implements cascading location filtering, dynamic pricing, Firebase authentication, and fully protected booking routes.
+
+`Next.js` `React` `Firebase` `Tailwind CSS`
+
+[Live Site](https://care-xyz-baby-sitting-elderly-care.vercel.app) · [Source](https://github.com/najmulcodes/Care.xyz---Baby-Sitting-Elderly-Care-Service-Platform)
+
+---
+
+### [Gatherly](https://gatherly-navy.vercel.app/) · [ClubSphere](https://clubsphere-client1.netlify.app/) · [BookHub](https://bookhub-heaven.surge.sh)
+
+Additional projects covering community discovery (Next.js 14, NextAuth), club membership management (MERN, JWT), and CRUD-based book cataloging. Full details on the [portfolio](https://najmul-portfolio-six.vercel.app).
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=najmulcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmulcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=najmulcodes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmulcodes&layout=compact&theme=github_dark&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=najmulcodes&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=najmulcodes&theme=github-dark-blue&hide_border=true" />
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najmulcodes&theme=github-compact&hide_border=true&area=true)](https://github.com/najmulcodes)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Currently Learning
 
-<div align="center">
-
-[![Najmul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=najmulcodes&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/najmulcodes)
-
-</div>
+- Advanced backend patterns — service layers, repository pattern, clean architecture
+- System design fundamentals — scalability, caching, database indexing
+- TypeScript in depth — generics, utility types, strict-mode codebases
+- Open source contribution workflow
 
 ---
 
-## 📌 Currently
+## Contact
 
-<div align="center">
-
-| 🏗️ Building | 📚 Learning | 🎓 Studying | 💼 Status |
-|:-----------:|:-----------:|:----------:|:---------:|
-| Production-grade full stack apps | Advanced Backend & System Design | Programming Hero — Level 2 | **Open to Work** ✅ |
-
-</div>
+**Email** — [najmulhasanshahin@gmail.com](mailto:najmulhasanshahin@gmail.com)  
+**Portfolio** — [najmul-portfolio-six.vercel.app](https://najmul-portfolio-six.vercel.app)  
+**GitHub** — [github.com/najmulcodes](https://github.com/najmulcodes)  
+**LinkedIn** — [linkedin.com/in/najmulcodes](https://www.linkedin.com/in/najmulcodes/)
 
 ---
 
 <div align="center">
-
-### 💬 Let's Build Something Great Together
-
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logoColor=white)](https://najmul-portfolio-six.vercel.app/)
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najmulhasanshahin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najmulcodes/)
-
-<br/>
-
-```
-"The best code is the one that ships — tested, scalable, and maintainable."
-```
-
-<br/>
-
-⭐ **Star a repo if you find it useful!** · Made with ❤️ from **Bangladesh** 🇧🇩
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer)
-
+<sub>Open to full-time roles and freelance projects — based in Dhaka, Bangladesh.</sub>
 </div>
