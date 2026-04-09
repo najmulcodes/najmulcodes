@@ -98,17 +98,21 @@ Role-based API authorization   ·   Claude API integrations   ·   Cloudinary me
 
 ### [DevFolio Analyzer](https://devfolio-analyzer.vercel.app/) &nbsp; `AI · Analytics`
 
+[![Preview](https://raw.githubusercontent.com/najmulcodes/najmulcodes/main/preview/devfolioanalyzer.png)](https://devfolioanalyzer.vercel.app/)
+
 Fetches live GitHub data, scores profiles across 6 weighted dimensions via a deterministic model, then layers Claude API insights on top. AI layer fails gracefully — output stays consistent regardless. Authenticated users get persistent history with score-over-time charting.
 
 `React` `Node.js` `MongoDB` `Claude API` `JWT`
 
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://devfolio-analyzer.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/najmulcodes/devfolio-analyzer)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://devfolioanalyzer.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/najmulcodes/devfolioanalyzer)
 
 </td>
 <td width="50%" valign="top">
 
 ### [MicroTask Platform](https://microtask-client-iota.vercel.app) &nbsp; `Marketplace · Stripe`
+
+[![Preview](https://raw.githubusercontent.com/najmulcodes/najmulcodes/main/preview/microtask.png)](https://microtask-client-iota.vercel.app)
 
 Three-role marketplace (Worker / Buyer / Admin) with scoped dashboards and API-level JWT authorization. Stripe coin-based payment system, full task lifecycle, and Google OAuth. Role is enforced server-side — not inferred from client state.
 
@@ -127,6 +131,8 @@ Three-role marketplace (Worker / Buyer / Admin) with scoped dashboards and API-l
 
 ### [LiveCollab](https://livecollab-rho.vercel.app/) &nbsp; `Real-Time · Socket.IO`
 
+[![Preview](https://raw.githubusercontent.com/najmulcodes/najmulcodes/main/preview/livecollab.png)](https://livecollab-rho.vercel.app/)
+
 Kanban board with Socket.IO drag-and-drop sync across all clients in under 100ms. Rooms scoped per workspace, optimistic updates with server-side conflict resolution, and heartbeat-based presence tracking. Invite-code onboarding + persistent activity log.
 
 `React` `Socket.IO` `Node.js` `MongoDB` `Zustand`
@@ -138,6 +144,8 @@ Kanban board with Socket.IO drag-and-drop sync across all clients in under 100ms
 <td width="50%" valign="top">
 
 ### [Badar Uddin Welfare](https://badaruddinwelfareorg.vercel.app/) &nbsp; `Production · Live`
+
+[![Preview](https://raw.githubusercontent.com/najmulcodes/najmulcodes/main/preview/badaruddin.png)](https://badaruddinwelfareorg.vercel.app/)
 
 Live platform for a real charitable organization. Replaces manual fund-tracking with role-based access (Admin / Member), donation request lifecycle with approval gates, and Cloudinary-backed media. Built to operational standards, not demo standards.
 
@@ -154,6 +162,8 @@ Live platform for a real charitable organization. Replaces manual fund-tracking 
 
 ### [Gatherly](https://gatherly-navy.vercel.app/) &nbsp; `Next.js 14 · TypeScript`
 
+[![Preview](https://raw.githubusercontent.com/najmulcodes/najmulcodes/main/preview/gatherly.png)](https://gatherly-navy.vercel.app/)
+
 Community discovery platform with dual-provider auth via NextAuth.js (credentials + Google OAuth), edge-level route protection via Next.js middleware, and a searchable community catalog. Mobile-first, built around real browsing patterns.
 
 `Next.js 14` `TypeScript` `NextAuth.js`
@@ -165,6 +175,8 @@ Community discovery platform with dual-provider auth via NextAuth.js (credential
 <td width="50%" valign="top">
 
 ### [Care.xyz](https://care-xyz-baby-sitting-elderly-care.vercel.app) &nbsp; `Next.js · Booking`
+
+[![Preview](https://raw.githubusercontent.com/najmulcodes/najmulcodes/main/preview/care.xyz.png)](https://care-xyz-baby-sitting-elderly-care.vercel.app)
 
 Caregiver booking platform with cascading location selectors (district → sub-district), a dynamic pricing engine by service type and duration, and Firebase auth with protected routes enforced at both page and API level.
 
@@ -185,9 +197,9 @@ Caregiver booking platform with cascading location selectors (district → sub-d
 
 ## GitHub Activity
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=najmulcodes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats-three-chi-41.vercel.app/api?username=najmulcodes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmulcodes&layout=compact&theme=github_dark&hide_border=true&langs_count=7&title_color=58a6ff&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats-three-chi-41.vercel.app/api/top-langs/?username=najmulcodes&layout=compact&theme=github_dark&hide_border=true&langs_count=7&title_color=58a6ff&bg_color=0d1117" />
 
 <br/><br/>
 
