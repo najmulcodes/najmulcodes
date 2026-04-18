@@ -251,10 +251,10 @@ Caregiver booking platform with cascading location selectors (district → sub-d
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2332,100:0d1117&height=90&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
-
 <p align="center">
  If you like any project of mine, consider giving it a star ⭐ on GitHub.
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2332,100:0d1117&height=90&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
